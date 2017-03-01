@@ -1,0 +1,11 @@
+{
+  "name": "boost-conversion",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-typeof": "1.63.0",
+    "boost-smart-ptr": "1.63.0"
+  }
+}
